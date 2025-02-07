@@ -1,0 +1,44 @@
+MedBot chat started: July 11, 2021 at 12:46 AM withUser
+
+MedBot: Hi! I am MedBot, how can I help you?
+
+You: Hi.
+
+MedBot: Hey!
+
+You: Who are you?
+
+MedBot: Hola, you can call me MedBot, your medical care assistant.
+
+You: What do you do?
+
+MedBot: I can help you get some assistance about your current health status. Please tell me some of your symptoms.
+
+You: I've got a headache.
+
+MedBot: I'm sorry to hear that. Headaches can be caused by various factors. It could be due to stress, dehydration, or other reasons. Try drinking water and taking a break.
+
+You: I'm feeling dizzy.
+
+MedBot: Dizziness can have different causes, such as low blood pressure or inner ear issues. Sit down, stay hydrated, and avoid sudden movements.
+
+You: I have a sore throat.
+
+MedBot: A sore throat can be due to a viral infection. Gargling with warm salt water and resting your voice can help. If it persists, consider consulting a doctor.
+
+You: My stomach hurts.
+
+MedBot: Stomach pain can have many causes, from indigestion to a stomach bug. Try eating plain foods and resting. If it doesn't improve, consult a healthcare professional.
+
+You: Thanks, MedBot.
+
+MedBot: You're welcome. Remember, I'm here to provide information and suggestions, but for accurate medical advice, it's always best to consult a doctor.
+
+You: Goodbye.
+
+MedBot: Goodbye. Stay healthy!
+
+Chat ended on [Date and Time] with User.
+
+
+chat ended on: July 11, 2021 at 12:49 AM with User
